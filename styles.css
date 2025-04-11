@@ -1,0 +1,21 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background-color: #d1ebf6;
+  font-size: 20px;
+  font-family: Sans-serif;
+  text-align: center;
+}
+
+#image {
+  display: block;
+  max-height: auto;
+  max-width: 100%;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: ariel;
+  text-align: center;
+}
